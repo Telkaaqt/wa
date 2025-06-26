@@ -10,12 +10,12 @@ const { color } = require('../../library/myfunc')
 // contoh ['1','2','3']
 // ['1','2','3','4']
 global.ownerNumber = [`${global.owner}`,'no2','no3'] // no owner yang dapat mengakses all fitur
-global.firstbotname = "clairity" // nama depan bot kalian // berfungsi untuk menu
+global.firstbotname = "Telkaa" // nama depan bot kalian // berfungsi untuk menu
 global.email = "@gmail.com" // kosongkan jika tidak punya
 global.web = ".com" // kosongkan jika tidak punya
-global.location = "Banten" // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
-global.packname = "Mayura bot" // wm yg ada di sticker
-global.author = "dibuat oleh xZiyy" // wm yg ada di sticker
+global.location = "Jakarta" // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
+global.packname = "Telkaa bot" // wm yg ada di sticker
+global.author = "dibuat oleh Telkaa" // wm yg ada di sticker
 global.imgUrl = "https://files.catbox.moe/jzjj0n.jpg" // ubah menggunakan !setimgreply ini sebagai image replay
 global.thumbnailUrl = "https://files.catbox.moe/v2n8br.jpg" // ubah menggunakan !setimgmenu ini sebagai image menu
 global.linkgc = "https://chat.whatsapp.com/C9YprGwjch81wh88uCp6lu"
@@ -43,7 +43,7 @@ order here:
 // koma di atas ini jangan di hapus
 
 global.idch = "120363418582467615@newsletter"
-global.namech = "- Mayura bot -"
+global.namech = "- Telkaa bot -"
 
 global.mess = {
     group: "Fitur Hanya Digunakan Untuk Grup!",
